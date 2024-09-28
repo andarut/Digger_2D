@@ -21,3 +21,7 @@ You need `python3.12` installed on your machine
 
 # Gameplay
 
+
+
+https://github.com/user-attachments/assets/82574678-1eaf-4dbb-8ffa-f46fd9c7d2b3
+
